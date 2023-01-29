@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @neutr0nian
 - 👀 I’m interested in Web and Mobile Development using JavaScript and Python
-- 🌱 I’m currently learning VueJS, ReactJS, TypeScript and NodeJS
+- 🌱 I create web applications in ReactJS with TypeScript and NodeJS
+- 🐍 Problem solving is what drives me and I do with Python
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me: chavanpratik.pc@gmail.com
 
